@@ -82,7 +82,7 @@
   },
   "dependencies": {
     "bitcore-lib": "^0.13.8",
-    "bitcore-node": "^1.0.0",
+    "bitcore-node": "satoshipay/bitcore-node#develop",
     "insight-api": "^0.3.1",
     "insight-ui": "^0.3.0"
   },
